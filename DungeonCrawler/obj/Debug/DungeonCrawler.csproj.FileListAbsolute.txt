@@ -1,0 +1,11 @@
+C:\Users\Brandon.DESKTOP-2F9AUKP\source\repos\DungeonCrawler\DungeonCrawler\bin\Debug\DungeonCrawler.exe.config
+C:\Users\Brandon.DESKTOP-2F9AUKP\source\repos\DungeonCrawler\DungeonCrawler\bin\Debug\DungeonCrawler.exe
+C:\Users\Brandon.DESKTOP-2F9AUKP\source\repos\DungeonCrawler\DungeonCrawler\bin\Debug\DungeonCrawler.pdb
+C:\Users\Brandon.DESKTOP-2F9AUKP\source\repos\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.csproj.AssemblyReference.cache
+C:\Users\Brandon.DESKTOP-2F9AUKP\source\repos\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.Game.resources
+C:\Users\Brandon.DESKTOP-2F9AUKP\source\repos\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.Properties.Resources.resources
+C:\Users\Brandon.DESKTOP-2F9AUKP\source\repos\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.csproj.GenerateResource.cache
+C:\Users\Brandon.DESKTOP-2F9AUKP\source\repos\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Brandon.DESKTOP-2F9AUKP\source\repos\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.exe
+C:\Users\Brandon.DESKTOP-2F9AUKP\source\repos\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.pdb
+C:\Users\Brandon.DESKTOP-2F9AUKP\source\repos\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.CustomButton.resources
