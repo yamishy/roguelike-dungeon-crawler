@@ -15,7 +15,7 @@ Dungeon Crawler is a text-based adventure game with a graphical user interface (
 ![Screenshot 2023-05-15 102752](https://github.com/yamishy/roguelike-dungeon-crawler/assets/91228120/2bc65fb1-d0bb-4d0c-8c79-88187ef16371)
 
 ## Inventory
-
+![Screenshot 2023-05-15 110714](https://github.com/yamishy/roguelike-dungeon-crawler/assets/91228120/1b60bbc7-4b79-4ada-8f1d-cf6ba573c598)
 
 ## Prerequisites
 
