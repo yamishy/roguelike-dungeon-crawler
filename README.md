@@ -2,9 +2,6 @@
 
 Dungeon Crawler is a text-based adventure game with a graphical user interface (GUI) where players navigate through a series of encounters, battling enemies and collecting items. The game is built using C# and the Windows Forms framework.
 
-## test
-![Screenshot 2023-05-15 102752](https://github.com/yamishy/roguelike-dungeon-crawler/assets/91228120/2bc65fb1-d0bb-4d0c-8c79-88187ef16371)
-
 ## Features
 
 - Turn-based combat system
@@ -13,6 +10,12 @@ Dungeon Crawler is a text-based adventure game with a graphical user interface (
 - Randomized loot drops
 - Leveling system for the player character
 - GUI interface with buttons and text displays
+
+## Game Loop
+![Screenshot 2023-05-15 102752](https://github.com/yamishy/roguelike-dungeon-crawler/assets/91228120/2bc65fb1-d0bb-4d0c-8c79-88187ef16371)
+
+## Inventory
+
 
 ## Prerequisites
 
