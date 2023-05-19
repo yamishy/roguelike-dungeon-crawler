@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,14 +15,9 @@ namespace DungeonCrawler
             genericMaxHealth = 10;
             currentHealth = GetMaxHealth();
             power = 2;
+            EncounterAction.EncounterActionDelegate action;
+            action = Strike;
         }
-
-        public void Strike(LivingBase target)
-        {
-            Damage amount = Attack(target);
-            GameUtil.game.AppendText($"{name} punches {target.name} for {amount.amount} {amount.type} damage.\n");
-        }
-
 
         public void InvAdd(ItemBase item)
         {
@@ -44,6 +39,7 @@ namespace DungeonCrawler
             GameUtil.game.UpdateInventory();
             
         }
+
 
     }
 }
