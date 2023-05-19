@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -52,7 +52,7 @@ namespace DungeonCrawler
                 }
                 else // If action is not an item, it must be a StrikeAction
                 {
-                    EncounterAction strikeAction = new EncounterAction("Strike", (Encounter e, LivingBase user, LivingBase target) =>
+                    StrikeAction strikeAction = new StrikeAction("Strike", (Encounter e, LivingBase user, LivingBase target) =>
                     {
                         user.Attack(target);
                         GameUtil.game.WriteText(user.name + " used Strike on " + target.name + "!");
@@ -61,7 +61,7 @@ namespace DungeonCrawler
                     {
                         CombatEncounter e = (CombatEncounter)encounter;
                         GameUtil.game.WriteText("");
-                        action.Action(e, e.player, e.enemy);
+                        strikeAction.Action(e, e.player, e.enemy);
                         e.enemy.FightBack(e, e.player);
                         WriteHealth(e);
                         GameUtil.game.UpdatePlayerStats();
