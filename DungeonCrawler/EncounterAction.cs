@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,7 +13,6 @@ namespace DungeonCrawler
         public ItemBase item;
         public EncounterActionDelegate action;
         public LivingBase strike;
-
         public string Name { get; set; }
         public EncounterActionDelegate Action { get; set; }
 
@@ -21,20 +20,16 @@ namespace DungeonCrawler
         {
             this.item = item;
             this.action = action;
+            Action = action;
         }
 
         public EncounterAction(string name,EncounterActionDelegate action)
         {
             this.Name = name;
             this.action = action;
+            Action = action;
 
         }
-
-        public EncounterAction()
-        {
-
-        }
-
 
     }
 }
